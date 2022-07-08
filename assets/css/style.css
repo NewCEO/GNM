@@ -2236,9 +2236,10 @@ object {
     text-transform: uppercase
 }
 
-#myMap {
-    height: 550px
-}
+@media(max-width:480px) {
+    #map {
+        display: none;
+    }
 
 .location-info {
     padding: 100px 140px;
