@@ -2247,10 +2247,7 @@ object {
     background-color: #f4f4f4
 }
 
-@media(max-width:991px) {
-    #myMap {
-        height: 250px
-    }
+
 
     .location-info {
         padding: 50px 20px;

@@ -232,7 +232,7 @@ jQuery(function ($) {
     })
   }
   ;(function () {
-    var $latitude =  9.066474831017983, 
+    var $latitude = 9.066474831017983,
       $longitude = 7.493844843802836,
       $map_zoom = 16
     var $marker_url = 'assets/images/map-marker.png'
