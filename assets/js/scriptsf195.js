@@ -111,7 +111,7 @@ jQuery(function ($) {
     var configList = {
       profile: { screenName: 'GNMovement_' },
       domId: 'GNMovement_TwitterFeed',
-      maxTweets: 2,
+      maxTweets: 5,
       enableLinks: true,
       showUser: false,
       showTime: true,

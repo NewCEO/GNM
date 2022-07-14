@@ -479,8 +479,8 @@ hr::after {
 
 .intro .tt-title {
     display: block;
-    font-size: 3.5em;
-    line-height: 40px;
+    font-size: 3em;
+    line-height: 50px;
     font-weight: 600;
     text-transform: uppercase;
     color: #97c04a;
