@@ -1,5 +1,5 @@
 body {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-size: 14px;
     line-height: 28px;
     font-weight: 400;
@@ -82,7 +82,8 @@ h6 {
     color: #97c04a;
     font-weight: 700;
     text-transform: uppercase;
-    margin: 0 0 15px
+    margin: 0 0 15px;
+    font-family: 'Montserrat', sans-serif;
 }
 
 h1 {
@@ -484,7 +485,8 @@ hr::after {
     font-weight: 600;
     text-transform: uppercase;
     color: #97c04a;
-    margin-bottom: 20px
+    margin-bottom: 20px;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .delay-1 {
