@@ -489,6 +489,13 @@ hr::after {
     font-family: 'Montserrat', sans-serif;
 }
 
+@media(max-width:767px) {
+    .tt-title {
+        font-size: 2em !important;
+    }
+}
+
+
 .delay-1 {
     -webkit-animation-delay: 300ms;
     -moz-animation-delay: 300ms;
